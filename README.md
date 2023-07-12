@@ -50,10 +50,3 @@ In this project, you can run the following scripts:
 | npm run build | Builds the app for production to the `dist` folder. |
 | npm run serve | Serves the production build from the `dist` folder. |
 
-## Credits
-
-Vite Template React is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
-
-## License
-
-This project is licensed under the terms of the [MIT license](https://github.com/SafdarJamal/vite-template-react/blob/main/LICENSE).
